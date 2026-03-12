@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main(){
+    cout<<"Ch.SuryaPaul"<<endl;
+    cout<<"CSE "<<endl;
+    cout<<"25A31A05EZ"<<endl;
+    cout<<"SEC-D"<<endl;
+    return 0;
+}
